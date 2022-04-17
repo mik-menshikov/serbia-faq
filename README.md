@@ -22,6 +22,8 @@
 
 [nekretnine.rs](https://www.nekretnine.rs/)
 
+[4zida.rs](https://www.4zida.rs/izdavanje-stanova)
+
 ## Общественный транспорт
 
 [БеоГрадска картица](https://www.beogradska.rs/)
